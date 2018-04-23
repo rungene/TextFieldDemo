@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i("Username", usernameEditText.getText().toString());
 
         Log.i("Password", passwordEditText.getText().toString());
+        
 
     }
 
